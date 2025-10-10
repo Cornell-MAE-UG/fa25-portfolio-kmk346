@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : Kacper Kowalski
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Kacper Kowalski
+name                     : kmk346
 description              : Kacper Kowalski - Projects and CV 
 baseurl                  : "/fa25-portfolio-kmk346/" # Set this to your repo name 
 
