@@ -1,72 +1,56 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Kacper Kowalski - CV
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/kmk346_Resume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [kmk346@cornell.edu](mailto:kmk346@cornell.edu) | | | **Phone:** +13473195809
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in the civil field. Passionate about exploring structure beyond what meets the eye and the implementation of such topics in the realm of environmental engineering. Eager to apply my knowledge in real-world applications and get more hands on experience!
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Civil Engineering Student*  
+  Expected Date of Graduation: May, 2028
 
-- **[High School Name]**  
+- **[Francis Lewis High School]**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  GPA: 4.0 | Graduation: [June, 2024]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, AutoCAD  
+- **Programming:** Python, Java, MATLAB  
+- **Language:** English, Polish  
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **[Cornell Engineers Without Borders Project Team]**:  
+  *[Student run project team at Cornell University. Affiliated with EWB USA, working to address and implement a sanitation project in Barrio San Cristobal, Bolivia.]*  
+  - Assessment Trip (Spring 2025)   
+  - Implementation Trip (Expected Summer 2026)
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **[Cross Island YMCA] - Senior Day Camp Counselor**  
+  [June, 2025] - [August, 2025]  
+  - Developed lesson plans and educated students (ages 7-9) across various subjects                    
+  - Established a safe and inclusive learning environment for students with special needs  
 
 ---
 
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
----
-
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
-
----
 
 #### References
 Available upon request.
