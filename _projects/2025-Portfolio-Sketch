@@ -3,14 +3,7 @@ layout: project
 title: Frame/Mechanism
 description: Class assignment with sketches
 technologies: [Drawings - Good Notes]
-images: 
-- /assets/images/ENGRD2020-Homework-4-Mechanism.png
-- /assests/images/Kacper-Kowalski-Homework12Image1.png
-- /assests/images/Kacper-Kowalski-Homework12Image2.png
-- /assests/images/Kacper-Kowalski-Homework12Image3.png
-- /assests/images/Kacper-Kowalski-Homework12Image4.png
-- /assests/images/Kacper-Kowalski-Homework12Image5.png
-- /assests/images/Kacper-Kowalski-Homework12Image6.png
+image: /assets/images/ENGRD2020-Homework-4-Mechanism.png
 ---
 
 As part of a homework assignment, I was tasked with sketching a mechanism responsible for lighting the maximum possible weight 
@@ -40,5 +33,8 @@ b) Choose a beam design (cross-section, material) such that its vertical deflect
 below 2% of its length and is the most mass-efficient possible.
 c) Present your final beam design in an image or drawing.
 
-The images demonstrate the new approach and implentation of our new findings in ENGRD2020. 
+The images demonstrate the new approach and implentation of our new findings in ENGRD2020.
+
+<img src="/assets/images/Kacper-Kowalski-Homework12Image1.png" width="400">
+
 
