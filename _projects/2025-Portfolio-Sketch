@@ -7,7 +7,7 @@ image: /assets/images/ENGRD2020-Homework-4-Mechanism.png
 ---
 
 As part of a homework assignment, I was tasked with sketching a mechanism responsible for lighting the maximum possible weight 
-to the highest possible height. This had to be achieved under certain constraints, such as including a total of 3 pin supports,    
+to the highest possible height. This had to be achieved under certain constraints, such as including a total of 3 pin supports, <br>
 two of which had to be mounted on the ground and utilizing a linear actuator taken from an online catalog. Moreover, it was assumed
 that all the supports and bar/actuator are rigid and that the actuator would exert its maximum force. 
 
