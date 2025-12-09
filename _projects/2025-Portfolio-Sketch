@@ -3,13 +3,14 @@ layout: project
 title: Frame/Mechanism
 description: Class assignment with sketches
 technologies: [Drawings - Good Notes]
-image: /assets/images/ENGRD2020-Homework-4-Mechanism.png
-image: /assests/images/Kacper-Kowalski-Homework12Image1.png
-image: /assests/images/Kacper-Kowalski-Homework12Image2.png
-image: /assests/images/Kacper-Kowalski-Homework12Image3.png
-image: /assests/images/Kacper-Kowalski-Homework12Image4.png
-image: /assests/images/Kacper-Kowalski-Homework12Image5.png
-image: /assests/images/Kacper-Kowalski-Homework12Image6.png
+images: 
+- /assets/images/ENGRD2020-Homework-4-Mechanism.png
+- /assests/images/Kacper-Kowalski-Homework12Image1.png
+- /assests/images/Kacper-Kowalski-Homework12Image2.png
+- /assests/images/Kacper-Kowalski-Homework12Image3.png
+- /assests/images/Kacper-Kowalski-Homework12Image4.png
+- /assests/images/Kacper-Kowalski-Homework12Image5.png
+- /assests/images/Kacper-Kowalski-Homework12Image6.png
 ---
 
 As part of a homework assignment, I was tasked with sketching a mechanism responsible for lighting the maximum possible weight 
