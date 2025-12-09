@@ -4,6 +4,12 @@ title: Frame/Mechanism
 description: Class assignment with sketches
 technologies: [Drawings - Good Notes]
 image: /assets/images/ENGRD2020-Homework-4-Mechanism.png
+image: /assests/images/Kacper Kowalski - Homework 12 Image 1.png
+image: /assests/images/Kacper Kowalski - Homework 12 Image 2.png
+image: /assests/images/Kacper Kowalski - Homework 12 Image 3.png
+image: /assests/images/Kacper Kowalski - Homework 12 Image 4.png
+image: /assests/images/Kacper Kowalski - Homework 12 Image 5.png
+image: /assests/images/Kacper Kowalski - Homework 12 Image 6.png
 ---
 
 As part of a homework assignment, I was tasked with sketching a mechanism responsible for lighting the maximum possible weight 
@@ -14,3 +20,24 @@ that all the supports and bar/actuator are rigid and that the actuator would exe
 The image below demonstrates how I went about the problem and created a mechanism that met the requirements. 
 The actuator would be responsible for retracting a rope that would lift the weight, while the bars and pin supports would ensure
 the stability of the entire structure.
+
+For the second half of this project, I was asked to follow a new set of tasks. Below you will find the outline. 
+
+Step 1: Consider the bar in your design to be rigid. Follow these steps to update your
+portfolio page from HW5:
+a) Create sections to define the problem, your constraints/objectives, and your
+design degrees of freedom.
+b) Treating the bar as rigid, revisit your submission for HW5 by describing the
+static analysis you conducted to determine your final design.
+c) Present your final mechanism design in an image or drawing.
+Step 2: The bar in your mechanism is no longer rigid. In fact, it is now best described as
+a beam which bends due to the combined action of the weight and the actuator force.
+Consider only the components of these forces transverse to your beam:
+a) Find the maximum deflection in your beam. State your assumptions clearly and
+describe your analysis.
+b) Choose a beam design (cross-section, material) such that its vertical deflection is
+below 2% of its length and is the most mass-efficient possible.
+c) Present your final beam design in an image or drawing.
+
+The images demonstrate the new approach and implentation of our new findings in ENGRD2020. 
+
