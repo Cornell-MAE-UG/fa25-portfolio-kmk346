@@ -16,3 +16,30 @@ The actuator would be responsible for retracting a rope that would lift the weig
 the stability of the entire structure.
 
 For the second half of this project, I was asked to follow a new set of tasks. Below you will find the outline. 
+
+Step 1: Consider the bar in your design to be rigid. Follow these steps to update your
+portfolio page from HW5:
+a) Create sections to define the problem, your constraints/objectives, and your
+design degrees of freedom.
+b) Treating the bar as rigid, revisit your submission for HW5 by describing the
+static analysis you conducted to determine your final design.
+c) Present your final mechanism design in an image or drawing.
+Step 2: The bar in your mechanism is no longer rigid. In fact, it is now best described as
+a beam which bends due to the combined action of the weight and the actuator force.
+Consider only the components of these forces transverse to your beam:
+a) Find the maximum deflection in your beam. State your assumptions clearly and
+describe your analysis.
+b) Choose a beam design (cross-section, material) such that its vertical deflection is
+below 2% of its length and is the most mass-efficient possible.
+c) Present your final beam design in an image or drawing.
+
+The images demonstrate the new approach and implentation of our new findings in ENGRD2020.
+
+<img src="/assets/images/Kacper-Kowalski-Homework12Image1.png" width="400">
+<img src="/assets/images/Kacper-Kowalski-Homework12Image2.png" width="400">
+<img src="/assets/images/Kacper-Kowalski-Homework12Image3.png" width="400">
+<img src="/assets/images/Kacper-Kowalski-Homework12Image4.png" width="400">
+<img src="/assets/images/Kacper-Kowalski-Homework12Image5.png" width="400">
+<img src="/assets/images/Kacper-Kowalski-Homework12Image6.png" width="400">
+
+
