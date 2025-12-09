@@ -12,16 +12,16 @@ two of which had to be mounted on the ground and utilizing a linear actuator tak
 
 The image below demonstrates how I went about the problem and created a mechanism that met the requirements. 
 The actuator would be responsible for retracting a rope that would lift the weight, while the bars and pin supports would ensure
-the stability of the entire structure.
+the stability of the entire structure.<br>
 
-For the second half of this project, I was asked to follow a new set of tasks. Below you will find the outline. 
+For the second half of this project, I was asked to follow a new set of tasks. Below you will find the outline. <br>
 
-Step 1: 
+Step 1: <br>
 
 a) Create sections to define the problem, your constraints/objectives, and your
-design degrees of freedom.
-b) Treating the bar as rigid, revisit your submission for HW5 by describing the
-static analysis you conducted to determine your final design.
+design degrees of freedom.<br>
+b) Treating the bar as rigid, revisit your previous work by describing the
+static analysis you conducted to determine your final design. <br>
 c) Present your final mechanism design in an image or drawing.
 Step 2: The bar in your mechanism is no longer rigid. In fact, it is now best described as
 a beam which bends due to the combined action of the weight and the actuator force.
